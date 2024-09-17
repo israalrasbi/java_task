@@ -52,6 +52,7 @@ public class Main {
         /*
         This is the solution for Task 4
          */
+        //print
         System.out.println();
         System.out.println("Task 4:");
         int[] arr = {2,3,6,4,1,9};
