@@ -55,7 +55,7 @@ public class Main {
         //print
         System.out.println();
         System.out.println("Task 4:");
-        int[] arr = {2,3,6,4,1,9};
+        int[] arr = {2,3,6,4,1,9,0};
         //assume the max is the first number
         int max = arr[0];
         //loop through the array
