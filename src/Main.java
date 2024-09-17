@@ -12,7 +12,6 @@ public class Main {
                 sum += i;
             }
         }
-        //to print
         System.out.println("Task 1:");
         System.out.println("The sum of even numbers: "+sum);
         System.out.println();
@@ -61,7 +60,7 @@ public class Main {
         //loop through the array
         for(int j=1; j< arr.length; j++ ){
             //check if the current number is bigger than the max
-            //if yes, assign the new max
+            //if yes, assign the new max>
             if(arr[j]>max){
                 max = arr[j];
             }
